@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nameless-h&label=Profile%20views&color=0e75b6&style=flat" alt="nameless-h" /> </p>
 
-- 💬 Ask me about **Javascript, ReactJS, Tailwind CSS**
+- 💬 Tell me more about **Javascript, ReactJS, Tailwind CSS**
 
 - 📫 How to reach me **tranvihao40@gmail.com**
 
