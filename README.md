@@ -24,9 +24,12 @@
 ## 📈 Github Stats
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=vihao1802&theme=radical&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vihao1802&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihao1802&theme=radical&layout=compact&langs_count=6">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vihao1802&theme=radical&show_icons=true&count_private=true"> 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vihao1802&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
+
