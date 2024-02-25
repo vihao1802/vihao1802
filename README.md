@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Tran Vi Hao</h1>
-<h3 align="center">A student from Viet Nam</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<h1 align="left">Hi 👋, I'm Tran Vi Hao</h1>
+<a href=https://www.linkedin.com/in/tr%E1%BA%A7n-v%C4%A9-h%C3%A0o-8a8282229/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=nameless-h&label=Profile%20views&color=0e75b6&style=flat" alt="nameless-h" /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nameless-h&label=Profile%20views&color=0e75b6&style=flat" alt="nameless-h" /> </p>
+![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/vihao1802/vihao1802/assets/108573121/0a73f175-0c06-44e5-89f8-fb5c16bb3bb0.png)
 
-- 💬 Tell me more about **Javascript, ReactJS, Tailwind CSS**
+- 💬 My name is Tran Vi Hao and I'm studying Information Technology at SGU (Sai Gon University). I'm from Vietnam and my goal is to become a software engineer.
 
 - 📫 How to reach me **tranvihao40@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100073670636232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tran vi hao" height="30" width="40" /></a>
-</p>
+## ✏️ Skills
 
+```json
+{
+    "name": "Tran Vi Hao",
+    "school": "Sai Gon University",
+    "hobbies": ["movies","musics","coding","reading"],
+    "programming_languages": ["JavaScript","Java","C#","Python"],
+    "tools": ["git/github","postman"]
+}
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📈 Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nameless-h&show_icons=true&locale=en&layout=compact" alt="nameless-h" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nameless-h&show_icons=true&locale=en" alt="nameless-h" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nameless-h&" alt="nameless-h" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nameless-h&show_icons=true&locale=en" alt="nameless-h" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nameless-h&" alt="nameless-h" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nameless-h&show_icons=true&locale=en&layout=compact" alt="nameless-h" />
