@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Tran Vi Hao</h1>
+<h1 align="left">Hi, I'm Tran Vi Hao</h1>
 <a href=https://www.linkedin.com/in/tr%E1%BA%A7n-v%C4%A9-h%C3%A0o-8a8282229/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=nameless-h&label=Profile%20views&color=0e75b6&style=flat" alt="nameless-h" /> 
 
 - 💬 My name is Tran Vi Hao and I'm studying Information Technology at SGU (Sai Gon University). I'm from Vietnam and my goal is to become a software engineer.
