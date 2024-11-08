@@ -1,7 +1,7 @@
-<h1 align="left">Hi, I'm Hao</h1>
-<a href=https://www.linkedin.com/in/tr%E1%BA%A7n-v%C4%A9-h%C3%A0o-8a8282229/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=nameless-h&label=Profile%20views&color=0e75b6&style=flat" alt="nameless-h" /> 
+<a href=https://www.linkedin.com/in/hao-tran-vi-8a8282229/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedIn"> </a> 
+<img src="https://komarev.com/ghpvc/?username=nameless-h&label=Profile%20views&color=0e75b6&style=flat" alt="tranvihao_linkedin" /> 
 
-- 💬 My name is Tran Vi Hao and I'm studying Information Technology at SGU (Sai Gon University). I'm from Vietnam and my goal is to become a software engineer.
+- 💬 My name is Tran Vi Hao and I'm studying Information Technology at SGU (Sai Gon University). I'm from Vietnam and my goal is to become a frontend developer.
 
 - 📫 How to reach me **tranvihao40@gmail.com**
 
@@ -12,11 +12,11 @@
     "name": "Tran Vi Hao",
     "school": "Sai Gon University",
     "hobbies": ["movies","musics","coding","reading"],
-    "programming_languages": ["JavaScript","Java","C#","Python"],
-    "tools": ["git/github","docker","etc."],
+    "programming_languages": ["JavaScript","TypeScript","Java","Python"],
+    "tools": ["git/github","docker","Postman","etc."],
     "database:" ["MySQL","Mongodb"],
-    "tech": ["Reactjs","Nextjs","Nodejs","FastAPI","etc."]
-
+    "tech": ["Reactjs","Nextjs","Nodejs","FastAPI","Springboot","etc."]
+    "certificate": ["TOEIC Listening & Reading 920/990 (2024)"]
 }
 ```
 
