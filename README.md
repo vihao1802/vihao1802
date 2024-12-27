@@ -25,8 +25,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihao1802&layout=compact&theme=radical)
 
 ## 📈 Github Stats
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihao1802&theme=radical&layout=compact&langs_count=6">
+--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=vihao1802&theme=radical&show_icons=true&count_private=true"> 
 <!--
