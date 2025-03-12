@@ -12,9 +12,9 @@
     "name": "Tran Vi Hao",
     "school": "Sai Gon University",
     "hobbies": ["movies","musics","coding","reading"],
-    "programming_languages": ["JavaScript","TypeScript","Java","Python"],
+    "programming_languages": ["JavaScript","TypeScript","Java","Python","HTML/CSS","SCSS"],
     "tools": ["git/github","docker","Postman","etc."],
-    "database:" ["MySQL","Mongodb"],
+    "database": ["MySQL","Mongodb"],
     "tech": ["Reactjs","Nextjs","Nodejs","FastAPI","Springboot","etc."]
     "certificate": ["TOEIC Listening & Reading 920/990 (2024)"]
 }
